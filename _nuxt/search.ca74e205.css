@@ -1,0 +1,1 @@
+.search-input{background-color:var(--input-bg);border-bottom:2px solid var(--common-bd);outline:none;padding:1em;transition:var(--common-transition);width:100%}.search-input:focus{border-color:currentcolor}
